@@ -1,0 +1,2 @@
+import{A as t}from"./index-e8cd5962.js";import"./index-87785f6e.js";import"./iframe-53a42501.js";import"./index-9dab0827.js";import"./jsx-runtime-0164ff7a.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/brunowbbs.png",alt:"Wesley Bruno"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories-185c423f.js.map
